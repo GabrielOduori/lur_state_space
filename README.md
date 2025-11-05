@@ -1,1 +1,1 @@
-# lur_state_space
+# LUR State SPace Model
