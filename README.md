@@ -1,1 +1,1 @@
-# LUR State SPace Model
+# LUR State Space Model
